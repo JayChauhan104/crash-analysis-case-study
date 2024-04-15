@@ -1,0 +1,53 @@
+{
+    "data_sources" : {
+        "charges": "/path/to/Charges_use.csv",
+        "damages": "/path/to/Damages_use.csv",
+        "endorse": "/path/to/Endorse_use.csv",
+        "primary_person": "/path/to/Primary_Person_use.csv",
+        "restrict": "/path/to/Restrict_use.csv",
+        "units": "/path/to/Units_use.csv"
+    },
+    "data_targets": {
+        "output_dir": "file:///path/to/output",
+        "output_1": {
+            "format": "csv",
+            "file_name": "output_1.csv"
+        },
+        "output_2": {
+            "format": "csv",
+            "file_name": "output_2.csv"
+        },
+        "output_3": {
+            "format": "csv",
+            "file_name": "output_3.csv"
+        },
+        "output_4": {
+            "format": "csv",
+            "file_name": "output_4.csv"
+        },
+        "output_5": {
+            "format": "csv",
+            "file_name": "output_5.csv"
+        },
+        "output_6": {
+            "format": "csv",
+            "file_name": "output_6.csv"
+        },
+        "output_7": {
+            "format": "csv",
+            "file_name": "output_7.csv"
+        },
+        "output_8": {
+            "format": "csv",
+            "file_name": "output_8.csv"
+        },
+        "output_9": {
+            "format": "csv",
+            "file_name": "output_9.csv"
+        },
+        "output_10": {
+            "format": "csv",
+            "file_name": "output_10.csv"
+        }
+    }
+}
