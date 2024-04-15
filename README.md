@@ -11,7 +11,7 @@ The Crash Analysis Case Study project aims to analyze crash data to derive meani
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/crash-analysis-case-study.git
+    git clone https://github.com/JayChauhan104/crash-analysis-case-study.git
     ```
 
 2. Install the required dependencies:
@@ -45,7 +45,7 @@ Copy and paste the JSON structure into the editor from /config/config.json:
 3. Save the file with a .json extension, for example, config.json.
 
 ## Project Structure
-
+```bash
 crash-analysis-case-study/
 │
 ├── src/
@@ -59,7 +59,7 @@ crash-analysis-case-study/
 │
 ├── main.py
 └── requirements.txt
-
+```
 - `src/`: Contains Python source code files.
 - `config/`: Stores the configuration file.
 - `main.py`: Entry point of the application.
